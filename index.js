@@ -7,7 +7,7 @@ Data: Customize the data below as you please.
 ***********/
 
 
-const SKILL_NAME = "Proto personas";
+const SKILL_NAME = "Which Sailor Senshi";
 const HELP_MESSAGE_BEFORE_START = "I can tell you which sailor senshi you are in 5 questions. Are you ready to play?";
 const HELP_MESSAGE_AFTER_START = "You can say yes or no.";
 const HELP_REPROMPT = "Say yes or no to my questions and find out which sailor senshi you are!";
